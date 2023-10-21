@@ -2,7 +2,7 @@
 
 - Based on the skills utilized in https://yb4tsxyxizt.larksuite.com/docx/E6OVdrEIoo7sYFx5ImPuFeEnsib?from=from_copylink
 
-## Basic SQL Commands
+## Basic SQL Commands 
 
 | Command | Description | Example |
 |---------|-------------|---------|
